@@ -21,3 +21,15 @@ TABLE OF CONTENT
 [Insight](#Insight)
 
 [Recommendation](#Recommendation)
+
+### Project Overview
+---
+This project analyzes customer churn data for MTN, highlighting key insights into churn patterns,revenue impact, and customer behavior. The Power BI dashboard provides visual analytics on churn rate, device usage, gender distribution, and monthly trends to support data-driven retention strategies
+
+### Data Source
+---
+The dataset used  was gotten from kaggle
+
+### Tool USED
+---
+- Excel :
