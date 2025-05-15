@@ -32,4 +32,9 @@ The dataset used  was gotten from kaggle
 
 ### Tool USED
 ---
-- Excel :
+- Excel
+  for data cleaning
+- Power BI
+  for building visualization
+  for create DAX measure
+  
