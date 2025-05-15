@@ -6,4 +6,18 @@ Exploratory analysis of MTN customer data to uncover patterns and key factors in
 TABLE OF CONTENT
 ---
 
-[project overview](#project overview)
+[project overview](#project-overview)
+
+[Data Source](#Data-Source)
+
+[Tool Used](#Tool-used)
+
+[Data Cleaning](Data-cleaning)
+
+[Exploratory Data Analysis](#Exploratory-Data-Analysis)
+
+[Data Visualization](#Data-Visualization)
+
+[Insight](#Insight)
+
+[Recommendation](#Recommendation)
