@@ -30,7 +30,7 @@ This project analyzes customer churn data for MTN, highlighting key insights int
 ---
 The dataset used  was gotten from kaggle
 
-### Tool USED
+### Tool Used
 ---
 - Excel
   for data cleaning
@@ -38,3 +38,14 @@ The dataset used  was gotten from kaggle
   for building visualization
   for create DAX measure
   
+### Data Field
+---
+- Customer ID
+- Name
+- Date Purchase
+- Age
+- State
+- Gender
+- Mtn Device
+- Customer review
+
