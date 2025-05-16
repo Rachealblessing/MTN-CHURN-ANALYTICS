@@ -76,5 +76,7 @@ Use Excel to clean my dataset by removing duplicates, hsndling missing values, s
 ### Data Visualization
 ---
 ![mmmm](https://github.com/user-attachments/assets/b8e3d69b-daa4-4430-b1d2-96c25eebfe0c)
+![mmm2](https://github.com/user-attachments/assets/cedcce01-1d8f-40f2-8f4b-a61f14b699ba)
+
 
 
