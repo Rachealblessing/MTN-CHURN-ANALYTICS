@@ -12,6 +12,8 @@ TABLE OF CONTENT
 
 [Tool Used](#Tool-used)
 
+[Data Field](#Data-Field)
+
 [Data Cleaning](Data-cleaning)
 
 [Exploratory Data Analysis](#Exploratory-Data-Analysis)
@@ -48,4 +50,30 @@ The dataset used  was gotten from kaggle
 - Gender
 - Mtn Device
 - Customer review
+
+### Data Cleaning
+---
+Use Excel to clean my dataset by removing duplicates, hsndling missing values, standardizing formats, and validation tools to ensure the data is accurate and ready for analysis
+
+### Exploratory Data Analysis
+---
+1. Customer Review
+   - Total customer: 496
+   - Churned customer: 284
+   - Churn rate: 29%
+   - Total revenue: 199M
+2. Churn Distribution:
+   - By Device Type: Highest churn from MOBILE SIM users
+   - By Gender: Slightly more churned males (52.8%) than females (47.2%)
+   - By Age: Churn is highest among 30-40 and 40-50 age groups
+   - By State: State like Abuja,Imo,Kebbi,Benue, and Yobe show higher churn
+   - By Tenure: Churn peaks at 50 months then declines.
+3. Time Analysis:
+   - Monthly churn trend shows a peak in February and drop in March
+4. Revenue Insight
+   - Majority of churned customers contribute significantly to total revenue.
+
+### Data Visualization
+---
+
 
