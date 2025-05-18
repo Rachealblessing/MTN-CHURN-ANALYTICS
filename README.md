@@ -78,5 +78,35 @@ Use Excel to clean my dataset by removing duplicates, hsndling missing values, s
 ![mmmm](https://github.com/user-attachments/assets/b8e3d69b-daa4-4430-b1d2-96c25eebfe0c)
 ![mmm2](https://github.com/user-attachments/assets/cedcce01-1d8f-40f2-8f4b-a61f14b699ba)
 
+### Key Insight
+---
+- High Churn Rate
+Nearly 1 in 3 customers are leaving, indicating dissatisfaction or attractive alternativs
+Most churn occurs within the first 30-50 months- pointing to poor onboarding or unmet expectations.
+- Device impact
+Mobile SIM users churn the most, likely due to price sensitivity and low switching costs.
+- Age Influence
+Highest churn among 20-40-year-olds,digitally savvy, demand high-quality service, and switch easily.
+- Gender
+Churn is nearly equal between females(52.82%)and males (47.18%)
+- Regional Patterns
+  58 million in revenue lost to churn - 29% of total revenue.
+
+### Recommendation
+---
+- Enhance Onboarding
+Launch a 90-day welcome program with tios,offer, and support
+- Target Mobile SIM Churn
+Offer loyalty rewards, data bundles, and flexible plans
+- Engage Younger Users(20-40)
+Use social media, lifestyle bundles, and refferal incentives.
+- Focus on high churn states
+improve network in abuja, imo, kebbi, and run local campaigns.
+- Expand Loyalty PROGRAM
+Reward tenure, usage, and referrals with perks and bonuses.
+- Collect exit feedback
+Use churn surveys to improve service and product features
+- Predict and prevent churn
+use data to identify at risk customer and offer retention deals
 
 
